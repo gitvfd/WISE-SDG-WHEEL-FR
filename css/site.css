@@ -1,0 +1,142 @@
+body {
+  background: #ffffff;
+}
+
+
+#selCountry {
+  /*padding: 0.5rem;*/
+  margin-bottom: 2px;
+  border: none;
+  background-color: #ffffff;
+  border-radius: 5px;
+}
+
+
+#country_dropdown {
+  margin: 1px 0 1px 0;
+  padding: 0.5rem;
+  width: 100%;
+  font-family: "Noto Sans Display", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 14px;
+  color: #586179;
+  text-align: left;
+  letter-spacing: normal;
+  vertical-align: baseline;
+  cursor: pointer;
+  border: none;
+  border-radius:3px;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  min-height:48px;
+}
+
+.dropdown_text {
+  display: inline-block;
+  margin-left: 5px;
+  font-family: 'Noto Sans Display', sans-serif;
+  font-weight: 100;
+  font-size: 1.2rem;
+  color: #586179;
+  text-align: start;
+  padding: 7px 25px 7px 0;
+}
+
+.select2-container {
+width: 100% !important;
+}
+.select2-container .select2-dropdown {
+    background-color: #f0f4f8; /* Replace with your desired color */
+}
+.select2-container--default .select2-selection--single{
+  width: 100%;
+    line-height: 48px;
+    border-radius:2px;
+    border-width: 0px;
+}
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    line-height: 48px;
+    border-radius:2px;
+    border-width: 0px;
+}
+
+.my-custom-class {
+    background-color: #f0f4f8; /* Replace with your desired color */
+    width:100%;
+    font-family: "Noto Sans Display", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 18px;
+    font-color: #101D40;
+}
+
+/* Change background color of options in the dropdown */
+.select2-container .select2-results__options .select2-selection__rendered {
+    background-color: #f0f4f8; /* Replace with your desired color */
+}
+
+/* Optional: Change background color of the selected item area */
+.select2-container .select2-selection {
+    background-color: #e0f2ff; /* Replace with your desired color */
+}
+
+#select2-country_dropdown-container{
+    background-color: #E8EDF2;
+}
+
+#modedemploi {
+}
+
+#intromodedemploi {
+  margin-left: 1.2em;
+  font-family: "Noto Sans Display", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 1.3rem;
+  color: #000000;
+}
+
+#wheel_app {
+/*position: relative;*/
+}
+#countryLink a{
+  
+  font-family: "Noto Sans Display", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 1.3rem;
+  color: #586179;
+}
+
+/**#wheel_img,
+#wheel_popup {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+#wheel_popup {
+  z-index: 10;
+}**/
+
+#wheel_popup {
+    text-align:center
+}
+
+.chartPic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  max-width: 650px;
+}
+
+
+@media only screen and (max-width: 600px) {
+  table {
+    min-width: 500px;
+    overflow-x: auto;
+  }
+}
