@@ -1,40 +1,40 @@
-ISO	Country	url	url2  CountryFR
-OECD	OECD	pic/OECD_wheel_EN.png	pic/OECD_wheel_FR.png  OCDE
-AUS	Australia	pic/AUS_wheel_EN.png	pic/AUS_wheel_FR.png  Australie
-AUT	Austria	pic/AUT_wheel_EN.png	pic/AUT_wheel_FR.png  Autriche
-BEL	Belgium	pic/BEL_wheel_EN.png	pic/BEL_wheel_FR.png  Belgique
-CAN	Canada	pic/CAN_wheel_EN.png	pic/CAN_wheel_FR.png  Canada
-CHL	Chile	pic/CHL_wheel_EN.png	pic/CHL_wheel_FR.png  Chili
-COL	Colombia	pic/COL_wheel_EN.png	pic/COL_wheel_FR.png  Colombie
-CRI	Costa Rica	pic/CRI_wheel_EN.png	pic/CRI_wheel_FR.png  Costa Rica
-CZE	Czechia	pic/CZE_wheel_EN.png	pic/CZE_wheel_FR.png  Tchéquie
-DNK	Denmark	pic/DNK_wheel_EN.png	pic/DNK_wheel_FR.png  Danemark
-EST	Estonia	pic/EST_wheel_EN.png	pic/EST_wheel_FR.png  Estonie
-FIN	Finland	pic/FIN_wheel_EN.png	pic/FIN_wheel_FR.png  Finlande
-FRA	France	pic/FRA_wheel_EN.png	pic/FRA_wheel_FR.png  France
-DEU	Germany	pic/DEU_wheel_EN.png	pic/DEU_wheel_FR.png  Allemagne
-GRC	Greece	pic/GRC_wheel_EN.png	pic/GRC_wheel_FR.png  Grèce
-HUN	Hungary	pic/HUN_wheel_EN.png	pic/HUN_wheel_FR.png  Hongrie
-ISL	Iceland	pic/ISL_wheel_EN.png	pic/ISL_wheel_FR.png  Islande
-IRL	Ireland	pic/IRL_wheel_EN.png	pic/IRL_wheel_FR.png  Irlande
-ISR	Israel	pic/ISR_wheel_EN.png	pic/ISR_wheel_FR.png  Israël
-ITA	Italy	pic/ITA_wheel_EN.png	pic/ITA_wheel_FR.png  Italie
-JPN	Japan	pic/JPN_wheel_EN.png	pic/JPN_wheel_FR.png  Japon
-KOR	Korea	pic/KOR_wheel_EN.png	pic/KOR_wheel_FR.png  Corée
-LVA	Latvia	pic/LVA_wheel_EN.png	pic/LVA_wheel_FR.png  Lettonie
-LTU	Lithuania	pic/LTU_wheel_EN.png	pic/LTU_wheel_FR.png  Lituanie
-LUX	Luxembourg	pic/LUX_wheel_EN.png	pic/LUX_wheel_FR.png  Luxembourg
-MEX	Mexico	pic/MEX_wheel_EN.png	pic/MEX_wheel_FR.png  Mexique
-NLD	Netherlands	pic/NLD_wheel_EN.png	pic/NLD_wheel_FR.png  Pays-Bas
-NOR	Norway	pic/NOR_wheel_EN.png	pic/NOR_wheel_FR.png  Norvège
-NZL	New Zealand	pic/NZL_wheel_EN.png	pic/NZL_wheel_FR.png  Nouvelle-Zélande
-POL	Poland	pic/POL_wheel_EN.png	pic/POL_wheel_FR.png  Pologne
-PRT	Portugal	pic/PRT_wheel_EN.png	pic/PRT_wheel_FR.png  Portugal
-SVK	Slovak Republic	pic/SVK_wheel_EN.png	pic/SVK_wheel_FR.png République slovaque
-SVN	Slovenia	pic/SVN_wheel_EN.png	pic/SVN_wheel_FR.png  Slovénie
-ESP	Spain	pic/ESP_wheel_EN.png	pic/ESP_wheel_FR.png  Espagne
-SWE	Sweden	pic/SWE_wheel_EN.png	pic/SWE_wheel_FR.png  Suède
-CHE	Switzerland	pic/CHE_wheel_EN.png	pic/CHE_wheel_FR.png  Suisse
-TUR	Türkiye	pic/TUR_wheel_EN.png	pic/TUR_wheel_FR.png  Türkiye
-GBR	United Kingdom	pic/GBR_wheel_EN.png	pic/GBR_wheel_FR.png  Royaume-Unie
-USA	United States	pic/USA_wheel_EN.png	pic/USA_wheel_FR.png  États-Unis
+ISO	Country	url	url2	CountryFR
+OECD	OECD	pic/OECD_wheel_EN.png	pic/OECD_wheel_FR.png	OCDE
+DEU	Germany	pic/DEU_wheel_EN.png	pic/DEU_wheel_FR.png	Allemagne
+AUS	Australia	pic/AUS_wheel_EN.png	pic/AUS_wheel_FR.png	Australie
+AUT	Austria	pic/AUT_wheel_EN.png	pic/AUT_wheel_FR.png	Autriche
+BEL	Belgium	pic/BEL_wheel_EN.png	pic/BEL_wheel_FR.png	Belgique
+CAN	Canada	pic/CAN_wheel_EN.png	pic/CAN_wheel_FR.png	Canada
+CHL	Chile	pic/CHL_wheel_EN.png	pic/CHL_wheel_FR.png	Chili
+COL	Colombia	pic/COL_wheel_EN.png	pic/COL_wheel_FR.png	Colombie
+KOR	Korea	pic/KOR_wheel_EN.png	pic/KOR_wheel_FR.png	Corée
+CRI	Costa Rica	pic/CRI_wheel_EN.png	pic/CRI_wheel_FR.png	Costa Rica
+DNK	Denmark	pic/DNK_wheel_EN.png	pic/DNK_wheel_FR.png	Danemark
+ESP	Spain	pic/ESP_wheel_EN.png	pic/ESP_wheel_FR.png	Espagne
+EST	Estonia	pic/EST_wheel_EN.png	pic/EST_wheel_FR.png	Estonie
+USA	United States	pic/USA_wheel_EN.png	pic/USA_wheel_FR.png	États-Unis
+FIN	Finland	pic/FIN_wheel_EN.png	pic/FIN_wheel_FR.png	Finlande
+FRA	France	pic/FRA_wheel_EN.png	pic/FRA_wheel_FR.png	France
+GRC	Greece	pic/GRC_wheel_EN.png	pic/GRC_wheel_FR.png	Grèce
+HUN	Hungary	pic/HUN_wheel_EN.png	pic/HUN_wheel_FR.png	Hongrie
+IRL	Ireland	pic/IRL_wheel_EN.png	pic/IRL_wheel_FR.png	Irlande
+ISL	Iceland	pic/ISL_wheel_EN.png	pic/ISL_wheel_FR.png	Islande
+ISR	Israel	pic/ISR_wheel_EN.png	pic/ISR_wheel_FR.png	Israël
+ITA	Italy	pic/ITA_wheel_EN.png	pic/ITA_wheel_FR.png	Italie
+JPN	Japan	pic/JPN_wheel_EN.png	pic/JPN_wheel_FR.png	Japon
+LVA	Latvia	pic/LVA_wheel_EN.png	pic/LVA_wheel_FR.png	Lettonie
+LTU	Lithuania	pic/LTU_wheel_EN.png	pic/LTU_wheel_FR.png	Lituanie
+LUX	Luxembourg	pic/LUX_wheel_EN.png	pic/LUX_wheel_FR.png	Luxembourg
+MEX	Mexico	pic/MEX_wheel_EN.png	pic/MEX_wheel_FR.png	Mexique
+NOR	Norway	pic/NOR_wheel_EN.png	pic/NOR_wheel_FR.png	Norvège
+NZL	New Zealand	pic/NZL_wheel_EN.png	pic/NZL_wheel_FR.png	Nouvelle-Zélande
+NLD	Netherlands	pic/NLD_wheel_EN.png	pic/NLD_wheel_FR.png	Pays-Bas
+POL	Poland	pic/POL_wheel_EN.png	pic/POL_wheel_FR.png	Pologne
+PRT	Portugal	pic/PRT_wheel_EN.png	pic/PRT_wheel_FR.png	Portugal
+SVK	Slovak Republic	pic/SVK_wheel_EN.png	pic/SVK_wheel_FR.png	République slovaque
+GBR	United Kingdom	pic/GBR_wheel_EN.png	pic/GBR_wheel_FR.png	Royaume-Uni
+SVN	Slovenia	pic/SVN_wheel_EN.png	pic/SVN_wheel_FR.png	Slovénie
+SWE	Sweden	pic/SWE_wheel_EN.png	pic/SWE_wheel_FR.png	Suède
+CHE	Switzerland	pic/CHE_wheel_EN.png	pic/CHE_wheel_FR.png	Suisse
+CZE	Czechia	pic/CZE_wheel_EN.png	pic/CZE_wheel_FR.png	Tchéquie
+TUR	Türkiye	pic/TUR_wheel_EN.png	pic/TUR_wheel_FR.png	Türkiye
